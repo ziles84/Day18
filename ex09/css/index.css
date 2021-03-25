@@ -1,0 +1,44 @@
+.branding {
+  background-color: #080b24;
+  color: white;
+}
+
+.highlight {
+  color: #eb5e34;
+}
+
+.container {
+  text-align: center;
+
+}
+
+#showcase .container {
+  width: 100%;
+}
+
+#boxes {
+
+  text-align: center;
+  margin: auto;
+  position: relative;
+
+}
+
+.box {
+  float: left;
+  padding: 20px;
+  margin: auto;
+}
+
+
+
+footer {
+  background-color: #eb5e34;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 15px;
+  color: white;
+}
